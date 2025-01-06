@@ -1,7 +1,138 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbsHmjZSJhGsZ9AKTvn1NUqpdi3hecvrqE_B6xtTn5Oj4V03Szaxmkmr7&s=10" group-title="MISTÉRIO",Cidade das Sombras
+#################################################### MISTÉRIO ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3MzNiZTEtMjMzNC00NmQ2LWI0MGQtMTZiNDg1YTlkYmQ5XkEyXkFqcGc@._V1_.jpg" group-title="MISTÉRIO",Cidade das Sombras
 https://v01.0img.top/v38/mp4/tt0118929.mp4
+
+#################################################### TERROR ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjVhOTQyYmUtODMzNS00OTc5LTk5NzUtYTYwMzVlOWM2MTczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",MaXXXine (2024)
+https://v01.0img.top/v51/mp4/tt22048412.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzNmIxNmUtNTVjNi00ZjM3LTlkYTktYTc4Njg2NmYyYmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",X: A Marca da Morte (2022)
+https://brbeast.com/cdn/hls/fefcca09b1291701bedb452ef7b5f352/master.txt
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0NDk4YTAtOWZiZi00MjE4LTkyYjItMDUzZWM2YTU5Mjk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Pearl (2022)
+https://brbeast.com/cdn/hls/07f06c2dbe467e1b2b2ae7a154bdc430/master.txt
+#EXTINF:-1 tvg-name="Apartamento 7A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFiZGQzZjUtN2ZjZi00ZGQ0LWI4YWMtNDM5MGFjZTRmZjM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Apartamento 7A
+https://pixeldrain.com/api/file/DEZSudHA
+#EXTINF:-1 tvg-name="O Exorcismo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUyNTdhMzQtYzZjOC00YWEwLWIyYWEtNmI1M2YzZWFjNmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",O Exorcismo
+https://pixeldrain.com/api/file/2wxEbQdh
+#EXTINF:-1 tvg-name="Um Lugar Silencioso: Dia Um" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY0Y2ZlMmEtYWI1OS00ZTNkLTkwNDUtNjZjMWU5YzJiMmFiXkEyXkFqcGc@._V1" group-title="TERROR",Um Lugar Silencioso: Dia Um (2024)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ4YjkzYjUtZWZkYi00M2FmLWI0ZjUtNGJiOGQ4N2M0MjJiXkEyXkFqcGc@._V1" group-title="TERROR",Um Lugar Silencioso (2018)
+https://v01.0img.top/v48/mp4/tt6644200.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRiYjk4ZmItNGQ5NS00MmRhLTk4Y2EtMGQ1MTYxZWJhYjU0XkEyXkFqcGc@._V1" group-title="TERROR",Um Lugar Silencioso - Parte II (2021)
+https://v01.0img.top/v50/mp4/tt8332922.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBjMWRlMTMtNjIyZS00OGUwLTllYTMtZWJlOTg4ZTY3NGY0XkEyXkFqcGc@._V1" group-title="TERROR",Longlegs - Vínculo Mortal (2024)
+https://v01.0img.top/v51/mp4/tt23468450.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMzQzMDUtOTE5OS00N2ZiLTgzYWQtMzFmNDY5OGQ5YjFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Sorria (2022)
+https://v01.0img.top/v51/mp4/tt15474916.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEwY2Q0ZDItN2FiMy00MjY1LWI0NWYtYzkzNTU2MjRlYjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Sorria 2 (2024)
+https://v01.0img.top/v51/mp4/tt29268110.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo (1984)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA0OTk4OWQtYWZlYy00Y2M4LWFmNzctZmU4OWVkMTI1NjJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMwMmQxZjUtNDFkYi00MjU3LThhNmYtMmU4YzgyMmYwZWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FlMDZlNjUtM2QyYS00Y2YyLWI3ZjEtZDdjZWM5ZTg0MDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdjZjE4ZTItNzljNC00ZDhmLTg4MDEtOTk2MzE4NDQwYzU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDczMjA3ZDYtZWMyNS00OWFkLThmMzEtNWQxZmZhNzVmNmQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo (2010)
+https://v01.0img.top/v41/mp4/tt1179056.mp4
+
+
+
+#################################################### AÇÃO ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY0YWMwYmYtNDAyMC00ZGQ4LTlhOTAtN2Q5MmRiYWFiZjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",O Mediador (2020)
+https://v01.0img.top/v51/mp4/tt9660688.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM3OTFmOGMtMTY4Yi00MmY1LWJjZDUtZjE2ZTg1NDAzZGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Centro de Trauma (2019)
+https://v01.0img.top/v51/mp4/tt9625664.mp4
+#EXTINF:-1 tvg-name="Borderlands: O Destino do Universo Está em Jogo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwNDZjMzctOGQwZC00NTdkLTk2MTAtYmMzNDYxNmI5OTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Borderlands: O Destino do Universo Está em Jogo
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA1ODY1ZTgtZGE3Zi00YmU3LTk5MmYtNWQ0NGQzMzVhYmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom: A Última Rodada (2024)
+https://v01.0img.top/v51/mp4/tt16366836.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4MmFiZjItOGMzMS00MDU1LTk0ODYtOTk1MWMzZWZjMTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom: Tempo de Carnificina (2021)
+https://v01.0img.top/v49/mp4/tt7097896.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFmOWQzNjktNmQ5Yy00N2VhLThlYjEtZTAyMzg0Yjg2NjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom (2018)
+https://v01.0img.top/v42/mp4/tt1270797.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVhNjUwYjMtNTYxMC00Mjg5LThhNzgtMmNmMDNlMWMxOWMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom (2005)
+https://v01.0img.top/v40/mp4/tt0428251.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY3YzZjMjctNzJlNy00MzEzLTkwOTUtOTQwY2E1NDZkY2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Hellboy e o Homem Torto (2024)
+https://v01.0img.top/v51/mp4/tt26757462.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMwYjQ4MWUtNTk4Zi00YTM0LTkzNzctMjAwNDQ4NzUwYmZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Hellboy II: O Exército Dourado (2008)
+https://v01.0img.top/v39/mp4/tt0411477.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4NDUyMTMtOGU1OS00Nzc2LWEzMTItMjQ1NWVkNDVmZDgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Hellboy (2004)
+https://v01.0img.top/v38/mp4/tt0167190.mp4
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMwZmVkMjQtMTE3OC00Yjg4LTk5YmYtOWYwYjU2Zjg1ZTBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Transformers: O Início (2024)
+https://v01.0img.top/v51/mp4/tt8864596.mp4
+
+
+#################################################### CRIME ####################################################
+
+
+
+#################################################### DRAMA ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkwZmE0NDYtZmE2Yi00YjkwLWEyOWQtOWRlMjY2MmRkYWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",A Prima Sofia (2019)
+https://v01.0img.top/v51/mp4/tt9632590.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlZGFjMDctNDIxOS00NjY5LWE1ZTEtMTAxZGE4Y2QxZjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",King Richard: Criando Campeãs (2021)
+https://v01.0img.top/v51/mp4/tt9620288.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJiMTI5YjMtMzA2OC00ZDQ0LTk1NmYtNjkzMzE1NmZkYjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",O Trem Italiano da Felicidade (2024)
+https://v01.0img.top/v51/mp4/tt29242846.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ2ZTUyODQtMjRiNi00NGI1LTk0YjQtMmVhZDNlZmQzODQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",Napoleão (2023)
+https://v01.0img.top/v51/mp4/tt13287846.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjliYWUwMTQtODliYy00YmZmLWIwYWQtNWYwYWE4MzQ0OWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",American Son (2019)
+https://v01.0img.top/v51/mp4/tt9664078.mp4
+
+#################################################### ROMANCE ####################################################
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/The_Perfect_Man.jpg" group-title="ROMANCE",Paixao de Aluguel
+https://pixeldrain.com/api/file/cTNrAqLe
+
+#################################################### COMÉDIA ####################################################
+
+
+
+
+#################################################### FICÇÃO ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThkMGFjMTctMDUxNi00MDVhLWFjYWMtMmIzNTRiZGQwODk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FICÇÃO",Viajantes - Instinto e Desejo (2021)
+https://v01.0img.top/v51/mp4/tt9664108.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFlZDRhYmYtNzNkOC00NTJjLWIyOTYtMDBiZjdjNmQyNzU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FICCAO",Avatar: O Caminho da Água (2022)
+https://v01.0img.top/v51/mp4/tt1630029.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwMmIyNWQtNWEyZS00M2M3LTgxZGEtMDlmMGIzZGM4NWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FICCAO",Planeta dos Macacos: O Reinado (2024)
+https://v01.0img.top/v51/mp4/tt11389872.mp4
+
+#################################################### ANIMACAO ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBmOWI0OWYtOTQ1ZS00OWM4LWE3MTAtZjFhODkwNzQxZDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ANIMACAO",Hellboy: A Espada das Tempestades (2006)
+https://v01.0img.top/v40/mp4/tt0810895.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://bocadoinferno.com.br/wp-content/uploads/2019/12/Hellboy-2007-4.jpg" group-title="ANIMACAO",Hellboy: O Espírito de Fantasma (2007)
+https://v01.0img.top/v40/mp4/tt0817910.mp4
+
+#################################################### DOCUMENTARIO ####################################################
+
+
+#################################################### SUSPENSE ####################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="ttps://m.media-amazon.com/images/M/MV5BNDI4ZWI3NmQtMmZmYy00NTIyLThjYWMtYjI5ZWQ5MDFhYzk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="SUSPENSE", Segredo do Lago (2020)
+https://v01.0img.top/v51/mp4/tt9639470.mp4
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E01
 https://t01.0img.top/t11/mp4/tt27517632/s1e1.mp4
@@ -309,110 +440,3 @@ https://t01.0img.top/t09/mp4/tt0934814/s5e12.mp4
 #EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E13
 https://t01.0img.top/t09/mp4/tt0934814/s5e13.mp4
 
-#################################################### TERROR ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="TERROR",aaa
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjVhOTQyYmUtODMzNS00OTc5LTk5NzUtYTYwMzVlOWM2MTczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",MaXXXine (2024)
-https://download2263.mediafire.com/3pkbayjoftxgih1c6x_MRELuibm2wGfFKrjKM8oKlO5VZnS0S306a5nwpfOEeLQdnuhuRyVvwya18kS0JgH06rdB2k_O16lDboGaCiUaB3ErWC1AoSrsVauetS9s2mc4CF4nOfQ_aLNYZr9-6ZlGsCjMbXMcqNivVYZ5U4fObv0nbg/3q14qug4yguvgu4/e689726a1748ce3e69ce71d7e9306069.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzNmIxNmUtNTVjNi00ZjM3LTlkYTktYTc4Njg2NmYyYmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",X: A Marca da Morte (2022)
-https://brbeast.com/cdn/hls/fefcca09b1291701bedb452ef7b5f352/master.txt
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0NDk4YTAtOWZiZi00MjE4LTkyYjItMDUzZWM2YTU5Mjk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Pearl (2022)
-https://brbeast.com/cdn/hls/07f06c2dbe467e1b2b2ae7a154bdc430/master.txt
-
-#EXTINF:-1 tvg-name="Apartamento 7A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFiZGQzZjUtN2ZjZi00ZGQ0LWI4YWMtNDM5MGFjZTRmZjM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Apartamento 7A
-https://pixeldrain.com/api/file/DEZSudHA
-#EXTINF:-1 tvg-name="O Exorcismo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUyNTdhMzQtYzZjOC00YWEwLWIyYWEtNmI1M2YzZWFjNmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",O Exorcismo
-https://pixeldrain.com/api/file/2wxEbQdh
-#EXTINF:-1 tvg-name="Um Lugar Silencioso: Dia Um" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY0Y2ZlMmEtYWI1OS00ZTNkLTkwNDUtNjZjMWU5YzJiMmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Um Lugar Silencioso: Dia Um (2024)
-https://download2358.mediafire.com/4lh8wqt1u7gg0cdimXbcKaf8T6NHGQTh-VXU5GA7wk6y6joyYhunDbqpvisp9aCOOScnM5YZYV57i4ipgJXRbXhJKoTXTw8c628H4VUocIroySL6Eak1aA2W56wtXgcfN4S4eAjETWZPXWSgmrNQj2OVoDJd6C23KDoj6BGdenMpyw/l2z0uftft88oe89/7c0a03315c2a5b438f9f901e8edceaf8.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" group-title="TERROR",Um Lugar Silencioso (2018)
-https://v01.0img.top/v48/mp4/tt6644200.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRiYjk4ZmItNGQ5NS00MmRhLTk4Y2EtMGQ1MTYxZWJhYjU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Um Lugar Silencioso - Parte II (2021)
-https://v01.0img.top/v50/mp4/tt8332922.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBjMWRlMTMtNjIyZS00OGUwLTllYTMtZWJlOTg4ZTY3NGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Longlegs - Vínculo Mortal (2024)
-https://v01.0img.top/v51/mp4/tt23468450.mp4
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMzQzMDUtOTE5OS00N2ZiLTgzYWQtMzFmNDY5OGQ5YjFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Sorria (2022)
-https://download2431.mediafire.com/0o8lwcyadpagqNr46iaRKzRCHqQ7Yur7S2_fSTeb78SR29XLMOst_M1W_b4tni8oCnbE8vQiQyqdjba3Idxqd_xi8aVYx00xTG_yrJmRmf-y6Q0jYpHcwtyS6Xcqo3DxRvwkhWWxZjN8G97aTs6KB2z2TyMVGATMtWrno6zwvaOgQw/5gpued5w2mtecga/9a16e17a92a66cb09a19dcfd2393bf62.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEwY2Q0ZDItN2FiMy00MjY1LWI0NWYtYzkzNTU2MjRlYjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",Sorria 2 (2024)
-https://v01.0img.top/v51/mp4/tt29268110.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo (1984)
-https://download854.mediafire.com/wmx1u2etlqigyEOfW-5MQcGvKm-yMtoXEWGZXm-0CKt8Z6mYC9LwhQf4vorLwnft4hT7BqeIEyQ3MCGdBkjiP3Iqwuy_9FweVlBOTBunbHA5NF74HqY42P-1xIyPV9sdfXIV8kAv9w0-o8TlMxc0U4ofgn0fF6ow39YnKmG5MgFv/1lxwm9desrhgtfr/a9e86fe3208399472dfe9d3484198c3b.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA0OTk4OWQtYWZlYy00Y2M4LWFmNzctZmU4OWVkMTI1NjJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
-https://download1580.mediafire.com/5jdu48rmle2ga5FWQeGKVc8rW5PPCkAYQPL1YD-bJcB2bhuGzGmiV44YsS2kU2cNrkO-vdOX-83tb2NWSEcmN-yjugL6y4lhCQcpypRyOFxdorvOG4EwWIyxHO_jIYXK6QzslsOEDRW3o42dqOQvyMTG6EmAMu8fzpWdFSqAqKTrlQ/dd7yz4abu5pji2k/fd05c86c0e72d97def208821bd590e48.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMwMmQxZjUtNDFkYi00MjU3LThhNmYtMmU4YzgyMmYwZWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
-https://download1321.mediafire.com/fo385papj6xgyXoJnNpOnKuALBol7xhzBFnO8WHvo7zTW0PmQpGO4GOnJyVUQygJM2HRydNYC4IBHLJDzrwcA1xKqKfPLjMzkvipwHi8eOJBmqBkp-SHamUHvmr3yYtTeyu1b7UaeJzV9IRdRQbgkOMdr3buSGe6ECxoEXYW2m0MJw/arr99alyl775801/6f5ffe22c8c7a27809b38212aae3e77d.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FlMDZlNjUtM2QyYS00Y2YyLWI3ZjEtZDdjZWM5ZTg0MDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
-https://download1652.mediafire.com/7xkrs3jelmzgpGf2fOejOKTi1BvQYPt5yvji9alDYw_xL-PwltF4Z2PwNEGcxL-VHDJirWdXFLPkkNOzQeFecFrxbSoEJZ8oCajUYMOE-lIsKVBdJeZy8Ni3Rc0IPqOh52Hf12djyavDa2Y65vMnR072DY7rRpPeXwMjp9rTRK-ApQ/muzzk1h2mgfgzls/d906d587d671241bcbb906bb18db3438.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdjZjE4ZTItNzljNC00ZDhmLTg4MDEtOTk2MzE4NDQwYzU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
-https://download944.mediafire.com/j4hev66zmn2gEmUcPdRNZkOi8gCF865VGBPmrf9MpxlzcAdXJ5tXf-MzHtu7p0sWrOuzFj_ebI2rO9257g7ORDyHhRN3DxhtsLooACfwTa9SRtaEnYCG-pLhqf5HjKJmgxLAKvAyf65P0VvPV5UqYm3AmrU76rWjLk-0v6YOSI_U_g/k8wnwk2ahy9g3u4/a0b4ce10a7a8ea07c39b15674291a812.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDczMjA3ZDYtZWMyNS00OWFkLThmMzEtNWQxZmZhNzVmNmQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="TERROR",A Hora do Pesadelo (2010)
-https://v01.0img.top/v41/mp4/tt1179056.mp4
-
-
-
-#################################################### AÇÃO ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="AÇÃO",aaa
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM3OTFmOGMtMTY4Yi00MmY1LWJjZDUtZjE2ZTg1NDAzZGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Centro de Trauma (2019)
-https://v01.0img.top/v51/mp4/tt9625664.mp4
-#EXTINF:-1 tvg-name="Borderlands: O Destino do Universo Está em Jogo" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwNDZjMzctOGQwZC00NTdkLTk2MTAtYmMzNDYxNmI5OTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Borderlands: O Destino do Universo Está em Jogo
-https://download2302.mediafire.com/m0i6x8mzr8dgTQNZz9HSMQVZ7ByGaUZqOR126g-i0tPM5iINsMkQXhsUBL0bhHOa9R0QAs4IKWO2akWxdugqEtse9Cv0ThL6AbqHJERyo6bJj62DyBF7nAutIkvLvpC3JDKT2ebFsVvtaj9Gq6jmbwGEa7oaAeSV-nkOmFMma1Tq/rerv2qwman746nf/b233fd3bbfdc3c4351151eb93bde5832.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA1ODY1ZTgtZGE3Zi00YmU3LTk5MmYtNWQ0NGQzMzVhYmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom: A Última Rodada (2024)
-https://v01.0img.top/v51/mp4/tt16366836.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4MmFiZjItOGMzMS00MDU1LTk0ODYtOTk1MWMzZWZjMTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom: Tempo de Carnificina (2021)
-https://download2280.mediafire.com/uc0lbfit7jagUn2SxJcNfZLCo4Gi09ZNpDi1o57XwrDZXRUmWPDdVraTe8cMfUu8oya3iwDrIpBTrm-peMw4N-1NIkLsyZcS53mc0dHr507WmL5g5fIUIMXYDraC3PleDftjE_Pjfxvo9YMCHbv01oGJ17U5Nw3vfXmVkAHiRApdzw/pi0ywouq8v6w0fe/53397951ad517576d6c6b71ab4253ecd.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFmOWQzNjktNmQ5Yy00N2VhLThlYjEtZTAyMzg0Yjg2NjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Venom (2018)
-https://download2348.mediafire.com/3sftt4usydcgMiC6OzTkX4e4EdxyLu0N0ti9zQkrreDRr73K8jl2tCipYT3qHUZcIzyIrQB5HGBwoi3ycVU0NWbHs8pg7GcmMc6NiKJ8VXTea8fxiUCNN-20BXsEpAZbFFHeB12PxJj-k33cwwI_J0g23PBtBpeIs7Q0ZEmChr31Ww/5oc8pepqxlzmpw2/e1c6118bb434133602eb17746cdc6fef.mp4
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY3YzZjMjctNzJlNy00MzEzLTkwOTUtOTQwY2E1NDZkY2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Hellboy e o Homem Torto (2024)
-https://download2357.mediafire.com/nis9v1vxoijgFluz9_CWwkf-xb9s9oSLYsqYXN3SQNNkIkcOlKoV_ZeC4Ul0uq_9qfBB1nRbreI-US24tMTyr1D6c6_gaMRMwS2JbvVG0vPb2bvEoCNxvo-FBVKkIetjkFQkoW06DWXvFRI1uVWTBf_uuzCR40aytLQQO5BaKgiCtg/u4n7qk3424xnrqs/30c127c19716fe763b1a2323c8de082b.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMwZmVkMjQtMTE3OC00Yjg4LTk5YmYtOWYwYjU2Zjg1ZTBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="AÇÃO",Transformers: O Início (2024)
-https://v01.0img.top/v51/mp4/tt8864596.mp4
-
-
-#################################################### CRIME ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="CRIME",aaa
-
-
-#################################################### DRAMA ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="DRAMA",aaa
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlZGFjMDctNDIxOS00NjY5LWE1ZTEtMTAxZGE4Y2QxZjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",King Richard: Criando Campeãs (2021)
-https://v01.0img.top/v51/mp4/tt9620288.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJiMTI5YjMtMzA2OC00ZDQ0LTk1NmYtNjkzMzE1NmZkYjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",O Trem Italiano da Felicidade (2024)
-https://v01.0img.top/v51/mp4/tt29242846.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ2ZTUyODQtMjRiNi00NGI1LTk0YjQtMmVhZDNlZmQzODQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DRAMA",Napoleão (2023)
-https://v01.0img.top/v51/mp4/tt13287846.mp4
-
-
-#################################################### ROMANCE ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="ROMANCE",aaa
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/The_Perfect_Man.jpg" group-title="ROMANCE",Paixao de Aluguel
-https://pixeldrain.com/api/file/cTNrAqLe
-
-#################################################### COMÉDIA ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="COMEDIA",aaa
-
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="COMEDIA",A Última Viagem (2019)
-
-#################################################### FICÇÃO ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="FICCAO",aaa
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFlZDRhYmYtNzNkOC00NTJjLWIyOTYtMDBiZjdjNmQyNzU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FICCAO",Avatar: O Caminho da Água (2022)
-https://v01.0img.top/v51/mp4/tt1630029.mp4
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwMmIyNWQtNWEyZS00M2M3LTgxZGEtMDlmMGIzZGM4NWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FICCAO",Planeta dos Macacos: O Reinado (2024)
-https://v01.0img.top/v51/mp4/tt11389872.mp4
-
-#################################################### ANIMACAO ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="ANIMACAO",aaa
-
-#################################################### DOCUMENTARIO ####################################################
-#EXTINF:-1 tvg-name="" tvg-logo="aaaa" group-title="DOCUMENTARIO",aaa
