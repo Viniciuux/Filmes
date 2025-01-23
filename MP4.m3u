@@ -1,6 +1,297 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="FILME",AAAAAAAAA
 
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",Globo SP
+https://play.embehub.com/GloboSP/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",Globo Nordeste
+https://play.embehub.com/GLOBO_NORDESTE/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",SBT SP
+https://play.embehub.com/SBTSP/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",RedeTV
+https://play.embehub.com/REDETV/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",Futura
+https://play.embehub.com/FUTURA/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",TV Brasil
+https://play.embehub.com/TVBRASIL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",BIS
+https://play.embehub.com/ANIMAL_PLANET/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",AMC
+https://play.embehub.com/AMC/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/logo.png" group-title="EMBEHUB",Adult Swim
+https://play.embehub.com/adult_swim/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/AXN/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ARTE1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/BANDSPORTS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/CANAL_BRASIL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/cartoon_network/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISCOVERY_channel/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISCOVERY_h&h/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISCOVERY_kids/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISCOVERY_turbo/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/disney_channel/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ESPN1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/FX/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HBO/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HBO2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HBOFAMILY/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HBOPLUS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HISTORY_CHANEL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HISTORY2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/mtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/national_geographic/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/Nickelodeon/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/NICK_JR/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PARAMOUNT/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/space/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TNT/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TELECINEACTION/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TELECINECULT/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TELECINEFUN/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TELECINEPIPOCA/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/STUDIO_UNIVERSAL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/SYFY/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/CINEMAX/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/COMEDY_CENTRAL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ESPN2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ESPN3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ESPN4/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ESPN5/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/ESPN6/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/RECORDSP/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/BANDNEWS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/cartoonito/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/sony/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/star_channel/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/warner/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/viva/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/a&e/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/SPORTTV1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/SPORTTV2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/SPORTTV3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE_CLUBES/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE4/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE5/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE6/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PREMIERE7/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PARAMOUNT+1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PARAMOUNT+2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PARAMOUNT+3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/PARAMOUNT+4/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/COMBATE/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/UFCFIGHTPASS1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/UFCFIGHTPASS2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/UFCFIGHTPASS3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISNEY+1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISNEY+2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISNEY+3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISNEY+4/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISNEY+5/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISNEY+6/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/CNNBRASIL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/JOVEMPANNEWS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/RECORDNEWS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HBOPOP/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/HBOXTREME/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/id_DISCOVERY/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISCOVERY_theater/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/discovery_tlc/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DISCOVERY_world/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/GLOOBINHO/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/BIS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/GLOOB/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/GNT/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/MEGAPIX/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/MULTISHOW/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/CANAL_OFF/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/STUDIO_UNIVERSAL/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TELECINEPREMIUM/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/TELECINETOUCH/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/Playboy/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/SEXY_HOT/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/SEXTREME/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/GLOBONEWS/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/Eventos_Extras_01/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DAZN_1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DAZN_2/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DAZN_3/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DAZN_4/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/DAZN_5/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/Brasileirinhas/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="EMBEHUB",AAAAA
+https://play.embehub.com/lifetime/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Anime
+https://play.embehub.com/Anime/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Anime açao
+https://play.embehub.com/Animeacao/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",BET Pluto TV
+https://play.embehub.com/BETPlutoTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Classicos
+https://play.embehub.com/CineClassicos/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Comedia
+https://play.embehub.com/CineComedia/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Drama
+https://play.embehub.com/CineDrama/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Familia
+https://play.embehub.com/CineFamilia/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Romance
+https://play.embehub.com/CineRomance/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Sucessos
+https://play.embehub.com/CineSucessos/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Cine Terror
+https://play.embehub.com/CineTerror/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Comedia
+https://play.embehub.com/Comedia/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Comedy Central
+https://play.embehub.com/ComedyCentral/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Filmes Ação
+https://play.embehub.com/FilmesAcao/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Filmes Nacionais
+https://play.embehub.com/FilmesNacionais/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Investigação
+https://play.embehub.com/Investigacao/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Kids
+https://play.embehub.com/PlutoKids/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Natureza
+https://play.embehub.com/Plutonatureza/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Retrô
+https://play.embehub.com/Plutoretro/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Shows por Stingray
+https://play.embehub.com/PlutoShowsporStingray/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/plutotv.png" group-title="EMBEHUB",Pluto Misterios
+https://play.embehub.com/Plutomisterios/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM01
+https://play.embehub.com/bbbcam01/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM02
+https://play.embehub.com/bbbcam02/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM03
+https://play.embehub.com/bbbcam03/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM04
+https://play.embehub.com/bbbcam04/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM05
+https://play.embehub.com/bbbcam05/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM06
+https://play.embehub.com/bbbcam06/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM07
+https://play.embehub.com/bbbcam07/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM08
+https://play.embehub.com/bbbcam08/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM09
+https://play.embehub.com/bbbcam09/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",BBB CAM10
+https://play.embehub.com/bbbcam10/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="EMBEHUB",MOSAICO
+https://play.embehub.com/bbbmosaico/index.fmp4.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNjN2ZlZDEtNTA0ZC00MDQyLWFjZDEtNjA0ZTU5ZDQzOTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Clube de Swing Fatal (2019)
 https://v01.0img.top/v51/mp4/tt9815588.mp4
